@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-##### Tenho conhecimento nas linguagens: **C**, **Java**, **Python**, **JavaScript**, **HTML** e **CSS**
+##### Tenho conhecimento nas linguagens de programação: **C**, **Java**, **Python**, **JavaScript** | **HTML** e **CSS**
 
 📫 Contato: [Linkedin](https://www.linkedin.com/in/tiago-sune-duarte-18530a235/) | tiagosune1@hotmail.com
 
