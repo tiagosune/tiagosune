@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 Olá, eu sou o Tiago 👋<br>Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Feevale e desenvolvedor apaixonado por aprender novas tecnologias e criar projetos práticos.<br><br>🔭 Atualmente estou trabalhando em:<br>Projetos web com Spring Boot (backend) e React (frontend)<br>Meu projeto pessoal: MedType, um sistema para criação de laudos de ecografia<br><br>🌱 Estou aprendendo:<br>Spring Boot avançado<br>React  e integração com APIs REST<br>Boas práticas de desenvolvimento e deploy em nuvem<br><br>💻 Habilidades:<br>Backend: Java, Spring Boot, JPA<br>Frontend: React, HTML, CSS, Bootstrap<br>Banco de dados: MySQL e PostgreSQL<br><br>⚡ Curiosidades:<br>Adoro criar projetos pessoais para aprender na prática<br>Sempre busco melhorar minhas habilidades e aprender coisas novas
 
 
