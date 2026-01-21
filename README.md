@@ -1,16 +1,133 @@
-# Sobre mim:
-Olá, eu sou o Tiago 👋<br>Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Feevale e desenvolvedor apaixonado por aprender novas tecnologias e criar projetos práticos.<br><br>🔭 Atualmente estou trabalhando em:<br>Projetos web com Spring Boot (backend) e React (frontend)<br>Projetos pessoais:<br> **MedType**: um sistema para criação de laudos de ultrassonografia<br>**QRArt**: sistema para gerar QR Codes customizados com imanges<br><br>🌱 Estou aprendendo:<br>Spring Boot avançado<br>React  e integração com APIs REST<br>Boas práticas de desenvolvimento e deploy em nuvem<br><br>💻 Habilidades:<br>Backend: Java, Spring Boot, JPA<br>Frontend: React, HTML, CSS, Bootstrap<br>Banco de dados: MySQL e PostgreSQL<br><br>⚡ Curiosidades:<br>Adoro criar projetos pessoais para aprender na prática<br>Sempre busco melhorar minhas habilidades e aprender coisas novas
+# 👋 Olá, eu sou o Tiago Duarte
 
+**💻 Desenvolvedor Backend | Java | Spring Boot | PostgreSQL**
 
-## 🌐 Redes Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tiagosune) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiago.sune) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagosunedev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiagosune1@hotmail.com) 
+> Transformo problemas reais em soluções backend bem estruturadas, com foco em clareza, organização e aprendizado contínuo.
 
-# 💻 Tecnologias:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tiagosune&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tiagosune&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosune&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Feevale (em andamento - 07/2026)  
+🎓 **Desenvolvedor Full Stack Python** – EBAC (em andamento - conclusão em 2026)  
+📍 Novo Hamburgo, Rio Grande do Sul, Brasil  
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade como **Desenvolvedor Backend Júnior ou Estagiário**, onde eu possa contribuir com soluções reais, aprender com profissionais experientes e evoluir tecnicamente dentro de um ambiente colaborativo.
+
+**Meu diferencial:**  
+Base sólida em **Java**, experiência prática com **Spring Boot**, arquitetura em camadas e forte compromisso com boas práticas e evolução constante.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🔧 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend (Conhecimento Complementar)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🩺 **MedType** – Sistema de Digitação de Laudos Médicos
+
+**Problema resolvido:**  
+A digitação de laudos médicos em arquivos soltos ou ferramentas genéricas gera desorganização, retrabalho e risco de perda de informações.
+
+**Solução:**  
+Aplicação web para digitação de laudos médicos, com foco em organização, agilidade e facilidade de uso, separando claramente responsabilidades entre frontend e backend.
+
+**Principais funcionalidades:**
+- ✅ API REST estruturada  
+- ✅ Separação clara de camadas (Controller, Service, Repository)  
+- ✅ Persistência de dados em banco relacional  
+- ✅ Interface web desenvolvida em React  
+- ✅ Validação de dados e tratamento de erros  
+
+**Stack Técnico:**  
+`Java` · `Spring Boot` · `Spring Data JPA` · `PostgreSQL` · `React`
+
+**Aprendizados principais:**
+- Estruturação de aplicações backend em camadas  
+- Criação e consumo de APIs REST  
+- Integração entre frontend e backend  
+- Organização de projetos para ambientes reais  
+
+🔗 **Links:**
+- Repositório: https://github.com/tiagosune/MedType  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagosune&show_icons=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosune&layout=compact)
+
+---
+
+## 🚀 Aprendizado Contínuo
+
+| Tópico | Objetivo Específico | Status |  
+|------|-------------------|--------|  
+| **Java** | Aprofundar fundamentos e boas práticas | 🟢 Contínuo | 
+| **Estruturas de Dados** | Listas, Pilhas, Filas, Árvores | 🟡 Em progresso | 
+| **Spring Boot** | APIs mais robustas e organizadas | 🟢 Contínuo | 
+| **React** | Melhor integração frontend/backend | 🟡 Em progresso | 
+
+---
+
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas**  
+  Universidade Feevale *(em andamento - 07/2026)*
+
+- **Desenvolvedor Full Stack Python**  
+  EBAC – Escola Britânica de Artes Criativas e Tecnologias  
+  *(Em andamento — conclusão prevista para 2026)*
+
+---
+
+## 💡 O Que Busco
+
+- 📈 Evoluir tecnicamente como backend developer  
+- 🤝 Trabalhar em equipe e aprender com profissionais experientes  
+- 🧠 Construir soluções bem documentadas e organizadas  
+- 🚀 Crescer junto com a empresa  
+
+---
+
+## 📫 Como Me Encontrar
+
+- 💼 LinkedIn: https://linkedin.com/in/tiagosunedev 
+- 📧 Email: tiagosune1@hotmail.com
+
+---
+
+⭐ **Se algum projeto chamou sua atenção, fique à vontade para entrar em contato ou deixar uma estrela!**
+
+---
+
+<div align="center">
+
+Desenvolvido por **Tiago Duarte** · Última atualização: Janeiro/2026
+
+</div>
