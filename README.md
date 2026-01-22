@@ -73,7 +73,36 @@ Aplicação web para digitação de laudos médicos, com foco em organização, 
 - Organização de projetos para ambientes reais  
 
 🔗 **Links:**
-- Repositório: https://github.com/tiagosune/MedType  
+- Repositório: [https://github.com/tiagosune/MedType](https://github.com/tiagosune/MedType)  
+
+---
+
+### 📚 **Biblioteca** – Sistema de Gerenciamento de Biblioteca
+
+**Problema resolvido:**  
+Bibliotecas pequenas ou acadêmicas frequentemente gerenciam acervos e empréstimos de forma manual ou desorganizada, dificultando o controle de prazos, multas e disponibilidade de livros.
+
+**Solução:**  
+Sistema console em Java para gerenciamento completo de biblioteca, com cadastro de usuários e livros, controle de empréstimos/devoluções e geração de relatórios.
+
+**Principais funcionalidades:**
+- ✅ Cadastro e gerenciamento de livros e usuários  
+- ✅ Controle de empréstimos com limite de 3 livros por usuário  
+- ✅ Validação de disponibilidade antes do empréstimo  
+- ✅ Relatórios de livros disponíveis, emprestados e usuários com pendências  
+
+**Stack Técnico:**  
+`Java` · `Java Streams` · `Collections (ArrayList, HashMap)` · `LocalDate API` · `POO`
+
+**Aprendizados principais:**
+- Aplicação prática de **Programação Orientada a Objetos** (encapsulamento, composição)  
+- Uso de **Collections** para gerenciamento de dados em memória  
+- Implementação de **regras de negócio** com validações  
+- Manipulação de datas com `java.time.LocalDate`  
+- Organização de código com **separação de responsabilidades**  
+
+🔗 **Links:**
+- Repositório: [https://github.com/tiagosune/Biblioteca_Projeto_Academico](https://github.com/tiagosune/Biblioteca_Projeto_Academico)  
 
 ---
 
@@ -117,8 +146,8 @@ Aplicação web para digitação de laudos médicos, com foco em organização, 
 
 ## 📫 Como Me Encontrar
 
-- 💼 LinkedIn: https://linkedin.com/in/tiagosunedev 
-- 📧 Email: tiagosune1@hotmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/tiagosunedev](https://linkedin.com/in/tiagosunedev) 
+- 📧 Email: [tiagosune1@hotmail.com](mailto:tiagosune1@hotmail.com)
 
 ---
 
