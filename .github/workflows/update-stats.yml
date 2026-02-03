@@ -1,0 +1,31 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Create profile folder
+        run: mkdir -p profile
+      
+      - name: Generate stats image
+        run: |
+          curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=tiagosune&show_icons=true&theme=dracula&hide_border=true"
+          
+      - name: Generate languages image
+        run: |
+          curl -o profile/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosune&layout=compact&theme=dracula&hide_border=true"
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add profile/stats.svg profile/languages.svg
+          git commit -m "Update stats" || exit 0
+          git push
