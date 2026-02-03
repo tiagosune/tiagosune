@@ -108,8 +108,9 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagosune&show_icons=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosune&layout=compact)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/languages.svg)
+
 
 ---
 
