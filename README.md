@@ -12,7 +12,7 @@
 
 ## 🎯 Objetivo Profissional
 
-Busco uma oportunidade como **Desenvolvedor Backend Júnior ou Estagiário**, onde eu possa contribuir com soluções reais, aprender com profissionais experientes e evoluir tecnicamente dentro de um ambiente colaborativo.
+Busco uma oportunidade como **Desenvolvedor Backend Júnior**, onde eu possa contribuir com soluções reais, aprender com profissionais experientes e evoluir tecnicamente dentro de um ambiente colaborativo.
 
 **Meu diferencial:**  
 Base sólida em **Java**, experiência prática com **Spring Boot**, arquitetura em camadas e forte compromisso com boas práticas e evolução constante.
@@ -24,13 +24,20 @@ Base sólida em **Java**, experiência prática com **Spring Boot**, arquitetura
 ### 🔧 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend (Conhecimento Complementar)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
@@ -47,6 +54,51 @@ Base sólida em **Java**, experiência prática com **Spring Boot**, arquitetura
 ---
 
 ## 📌 Projetos em Destaque
+
+### 🚀 **QrArt** – Plataforma SaaS de QR Codes Dinâmicos e Personalizados
+
+**Problema resolvido:**  
+QR Codes estáticos não podem ser atualizados após impressos, gerando desperdício e limitando campanhas de marketing, cardápios digitais e materiais promocionais.
+
+**Solução:**  
+Aplicação web SaaS completa para criação de QR Codes dinâmicos com logo personalizada, redirecionamento editável e sistema de pagamentos integrado.
+
+**Principais funcionalidades:**
+- ✅ **Autenticação JWT** com controle de acesso por roles (USER/ADMIN)
+- ✅ **QR Codes Dinâmicos** com redirecionamento editável sem gerar novo código
+- ✅ **Upload de logo personalizada** com sobreposição inteligente
+- ✅ **Integração Stripe** para pagamentos com webhook configurado
+- ✅ **Painel administrativo** para gestão de usuários e QR Codes
+- ✅ **Interface SPA** com dark/light mode
+- ✅ **Deploy completo em produção** na AWS com domínio próprio e HTTPS
+
+**Stack Técnico:**  
+`Java 21` · `Spring Boot 3` · `Spring Security` · `JWT` · `PostgreSQL (AWS RDS)` · `ZXing` · `Stripe API` · `React` · `Vite` · `AWS EC2` · `Nginx` · `Let's Encrypt`
+
+**Aprendizados principais:**
+- Implementação completa de **Spring Security com JWT**
+- Integração de **pagamentos online** com webhooks
+- **Deploy em produção** com infraestrutura real na AWS
+- Configuração de **reverse proxy** e certificados SSL
+- Arquitetura **full-stack** com frontend e backend separados
+- Upload e processamento seguro de arquivos
+- Resolução de problemas complexos (CORS, 403/413, QR ilegível)
+
+**Destaques técnicos:**
+- 🔐 Autenticação stateless com JWT
+- 💳 Processamento de pagamentos assíncrono via webhook
+- 🌐 Servidor EC2 com Nginx como reverse proxy
+- 🔒 HTTPS configurado com Let's Encrypt
+- 📁 Upload seguro de imagens com validação
+- ⚡ SPA otimizada com Vite
+
+🔗 **Links:**
+- 🌐 **Demo ao vivo:** [https://qrart.com.br](https://qrart.com.br)
+- 📂 **Repositório:** [https://github.com/tiagosune/qrart](https://github.com/tiagosune/qrart)
+
+> 💡 **Este é meu projeto mais desafiador até o momento**, unindo backend enterprise, integração com pagamentos, infraestrutura cloud e deploy em produção com domínio próprio.
+
+---
 
 ### 🩺 **MedType** – Sistema de Digitação de Laudos Médicos
 
@@ -111,7 +163,6 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/languages.svg)
 
-
 ---
 
 ## 🚀 Aprendizado Contínuo
@@ -119,8 +170,10 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 | Tópico | Objetivo Específico | Status |  
 |------|-------------------|--------|  
 | **Java** | Aprofundar fundamentos e boas práticas | 🟢 Contínuo | 
-| **Estruturas de Dados** | Listas, Pilhas, Filas, Árvores | 🟡 Em progresso | 
-| **Spring Boot** | APIs mais robustas e organizadas | 🟢 Contínuo | 
+| **Spring Security** | JWT, OAuth2, autorização avançada | 🟢 Contínuo |
+| **AWS** | EC2, RDS, S3, deploy e infraestrutura | 🟡 Em progresso | 
+| **Docker** | Containerização de aplicações | 🟡 Próximo passo |
+| **Estruturas de Dados** | Listas, Pilhas, Filas, Árvores | 🟢 Contínuo | 
 | **React** | Melhor integração frontend/backend | 🟡 Em progresso | 
 
 ---
@@ -138,7 +191,7 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 
 ## 💡 O Que Busco
 
-- 📈 Evoluir tecnicamente como backend developer  
+- 📈 Evoluir tecnicamente como backend/full stack developer  
 - 🤝 Trabalhar em equipe e aprender com profissionais experientes  
 - 🧠 Construir soluções bem documentadas e organizadas  
 - 🚀 Crescer junto com a empresa  
@@ -149,6 +202,7 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 
 - 💼 LinkedIn: [https://linkedin.com/in/tiagosunedev](https://linkedin.com/in/tiagosunedev) 
 - 📧 Email: [tiagosune1@hotmail.com](mailto:tiagosune1@hotmail.com)
+- 🌐 Portfólio: [https://qrart.com.br](https://qrart.com.br)
 
 ---
 
@@ -158,6 +212,6 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 
 <div align="center">
 
-Desenvolvido por **Tiago Duarte** · Última atualização: Janeiro/2026
+Desenvolvido por **Tiago Duarte** · Última atualização: Fevereiro/2026
 
 </div>
