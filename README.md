@@ -38,7 +38,7 @@ Base sólida em **Java**, experiência prática com **Spring Boot**, arquitetura
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -174,7 +174,7 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 | **AWS** | EC2, RDS, S3, deploy e infraestrutura | 🟡 Em progresso | 
 | **Docker** | Containerização de aplicações | 🟡 Próximo passo |
 | **Estruturas de Dados** | Listas, Pilhas, Filas, Árvores | 🟢 Contínuo | 
-| **React** | Melhor integração frontend/backend | 🟡 Em progresso | 
+| **Angular** | Melhor integração frontend/backend | 🟡 Em progresso | 
 
 ---
 
