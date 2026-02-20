@@ -12,10 +12,10 @@
 
 ## 🎯 Objetivo Profissional
 
-Busco uma oportunidade como **Desenvolvedor Backend Júnior**, onde eu possa contribuir com soluções reais, aprender com profissionais experientes e evoluir tecnicamente dentro de um ambiente colaborativo.
+Busco uma oportunidade como **Desenvolvedor Full Stack Júnior**, onde eu possa contribuir com soluções reais, aprender com profissionais experientes e evoluir tecnicamente dentro de um ambiente colaborativo.
 
 **Meu diferencial:**  
-Base sólida em **Java**, experiência prática com **Spring Boot**, arquitetura em camadas e forte compromisso com boas práticas e evolução constante.
+Base sólida em **Java**, experiência prática com **Spring Boot** e **Angular**, arquitetura em camadas e forte compromisso com boas práticas e evolução constante.
 
 ---
 
