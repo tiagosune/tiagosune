@@ -6,6 +6,7 @@
 
 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Feevale (em andamento - 07/2026)  
 🎓 **Desenvolvedor Full Stack Python** – EBAC (em andamento - conclusão em 2026)  
+🌐 **Meu site** - https://tiagosune.com  
 📍 Novo Hamburgo, Rio Grande do Sul, Brasil  
 
 ---
