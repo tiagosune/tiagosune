@@ -203,7 +203,7 @@ Sistema console em Java para gerenciamento completo de biblioteca, com cadastro 
 
 - 💼 LinkedIn: [https://linkedin.com/in/tiagosunedev](https://linkedin.com/in/tiagosunedev) 
 - 📧 Email: [tiagosune1@hotmail.com](mailto:tiagosune1@hotmail.com)
-- 🌐 Portfólio: [https://qrart.com.br](https://qrart.com.br)
+- 🌐 Portfólio: [https://tiagosune.com](https://tiagosune.com)
 
 ---
 
