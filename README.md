@@ -2,7 +2,7 @@
 
 **💻 Desenvolvedor Full Stack | Java | Spring Boot | PostgreSQL | Angular**
 
-> Transformo problemas reais em soluções backend bem estruturadas, com foco em clareza, organização e aprendizado contínuo.
+> Transformo problemas reais em soluções bem estruturadas, com foco em clareza, organização e aprendizado contínuo.
 
 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Feevale (em andamento - 07/2026)  
 🎓 **Desenvolvedor Full Stack Python** – EBAC (em andamento - conclusão em 2026)  
