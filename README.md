@@ -4,7 +4,7 @@
 
 > Transformo problemas reais em soluções bem estruturadas, com foco em clareza, organização e aprendizado contínuo.
 
-🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Feevale (em andamento - 07/2026)  
+🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Feevale (em andamento - 12/2026)  
 🎓 **Desenvolvedor Full Stack Python** – EBAC (em andamento - conclusão em 2026)  
 🌐 **Meu site** - https://tiagosune.com  
 📍 Novo Hamburgo, Rio Grande do Sul, Brasil  
